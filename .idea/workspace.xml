@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36ae8eba-fd54-4da0-b0ce-d4d563ba3994" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mdf/navigation/NavigateTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mdf/pages/SearchFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mdf/stepDef/CucumberTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mdf/stepDef/SearchItemStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mdf/stepLib/SearchAnItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/searchBy_author.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MesfinFeleke&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MesfinFeleke/serenity-cucumber.git&quot;,
+    &quot;accountId&quot;: &quot;45b1bf45-ca5d-42cb-8829-80f9fbf00db3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oBRFM0NxYyal6x63yoL0K29tkk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/OneDrive/Desktop/Work Space/serenity-cucumber&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="serenity-cucumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="serenity-cucumber" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36ae8eba-fd54-4da0-b0ce-d4d563ba3994" name="Changes" comment="" />
+      <created>1730340877922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730340877922</updated>
+    </task>
+    <servers />
+  </component>
+</project>
